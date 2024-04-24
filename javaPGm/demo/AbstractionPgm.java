@@ -1,5 +1,5 @@
 package demo;
-import java.util.Scanner;
+import java.util.*;
 abstract class Value 
 {
 	abstract void setValue(int x, int y);
